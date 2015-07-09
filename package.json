@@ -1,0 +1,9 @@
+{
+	"name": "laravel-onecomponent",
+	"version": "1.0.0",
+	"devDependencies": {
+		"load-grunt-tasks": "x",
+		"grunt-recess": "x",
+		"grunt-contrib-watch": "x"
+	}
+}

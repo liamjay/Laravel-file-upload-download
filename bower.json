@@ -1,0 +1,14 @@
+{
+	"name": "laravel-onecomponent",
+	"version": "1.0.0",
+	"ignore": [
+		"**/.*",
+		"lib"
+	],
+	"dependencies": {
+		"bootstrap": "latest",
+		"normalize.css": "latest",
+		"fontawesome": "latest",
+		"modernizr": "latest"
+	}
+}
